@@ -301,9 +301,17 @@ figure {
   margin: 0 0 1rem;
 }
 
+/* .team-photo img {
+  max-width: 100%;
+} */
+
 img,
 svg {
   vertical-align: middle;
+}
+
+.photo {
+  max-width: none !important;
 }
 
 table {
