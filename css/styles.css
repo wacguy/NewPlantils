@@ -11333,7 +11333,7 @@ header.masthead .masthead-heading {
 .team-member img {
   width: 15rem;
   height: 15rem;
-  border: 0.5rem solid rgba(0, 0, 0, 0.1);
+  border: 0rem solid rgba(0, 0, 0, 0.1);
 }
 .team-member h4, .team-member .h4 {
   margin-top: 1.5rem;
